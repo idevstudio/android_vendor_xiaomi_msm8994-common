@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8994-common/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/xiaomi/msm8994-common/proprietary/vendor/bin/cnss-daemon:system/vendor/bin/cnss-daemon \
-    vendor/xiaomi/msm8994-common/proprietary/vendor/bin/energy-awareness:system/vendor/bin/energy-awareness \
     vendor/xiaomi/msm8994-common/proprietary/vendor/bin/garden_app:system/vendor/bin/garden_app \
     vendor/xiaomi/msm8994-common/proprietary/vendor/bin/gpsone_daemon:system/vendor/bin/gpsone_daemon \
     vendor/xiaomi/msm8994-common/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
